@@ -4,7 +4,6 @@ function emptyFields(fields) {
     fields.forEach(function(slug) {
         if (slug == undefined || slug == '' || slug == null) { return false; }
     });
-    return true;
 }
 
 // Make the main function available to other packages that require us
