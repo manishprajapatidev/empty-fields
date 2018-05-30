@@ -1,6 +1,6 @@
 {
     "name": "empty-fields",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A cool package for checking if fields are empty or not",
     "main": "index.js",
     "author": "Manish Prajapati <manishprajapat41@gmail.com>",
