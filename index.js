@@ -3,7 +3,6 @@ function emptyFields(fields) {
     // Returns true if the input is either undefined, null, or empty, false otherwise
     temp = false;
     fields.forEach(function(slug) {
-        console.log(slug);
         if (slug == undefined || slug == '' || slug == null) {
             temp = true;
             return false;
